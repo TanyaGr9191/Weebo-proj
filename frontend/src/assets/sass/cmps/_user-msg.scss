@@ -1,0 +1,74 @@
+.user-msg {
+    background-color: rgb(116, 218, 116);
+    position: fixed;
+    display: flex;
+    align-items: center;
+    animation-delay: 0.5s;
+    justify-content: center;
+    padding: 80px;
+    bottom: 0;
+    right: -30%;
+    z-index: 999;
+    // border-radius: 10px;
+    animation-play-state: running;
+    animation-name: user-msg;
+    animation-duration: 4s;
+    animation-fill-mode: forwards;
+    transition: all 0.5s;
+    gap: 20px;
+    font-family: Monsterrat;
+    font-weight: 700;
+    padding-inline-start: 20px;
+
+
+    img{
+        width: 40px;
+    }
+
+    button:hover {
+        background-color: black;
+    }
+    @include for-tiny-layout{
+        bottom: 2%;
+        padding: 10px;
+    }
+    
+    @include for-mobile-layout{
+        bottom: 2%;
+        padding: 10px;
+    }
+}
+
+.user-msg-close{
+    display: none;
+}
+
+
+@keyframes user-msg {
+    0% {
+        right: -30%;
+    }
+
+    10% {
+        right: .8%;
+    }
+
+    90% {
+        right: .8%;
+    }
+
+    95% {
+        right: -20%;
+    }
+
+    100% {
+        right: -30%;
+    }
+}
+
+
+
+// @keyframes user-msg {
+//     from{right:-30%}
+//     to{right:.8%}
+// }

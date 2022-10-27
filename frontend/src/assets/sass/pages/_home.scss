@@ -1,0 +1,758 @@
+.homepage {
+    background-image: url();
+
+    .section-3 {
+        background-color: $main-color;
+        .guide-video-container {
+            width: 100%;
+            margin: 0;
+
+        }
+    }
+
+    .home-top-container {
+        gap: 40px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+        button {
+            font-family: Madefor;
+            user-select: none;
+            border: none;
+            // border-radius: 20px;
+            background-color: rgb(243, 186, 81);
+            padding: 20px;
+            font-size: 1.1rem;
+            color: rgb(34, 31, 31);
+            width: 80%;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: rgb(238, 195, 115);
+        }
+    }
+
+    .section-1 {
+        padding-top:150px;
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+        padding-bottom: 200px;
+        position: relative;
+        width: 100%;
+        gap: 50px;
+
+        .top-wave {
+            user-select: none;
+            z-index: -1;
+            position: absolute;
+            top: 0;
+            width: 100%;
+            left: 0;
+        }
+
+        .home-photo {
+            width: 100%;
+        }
+
+        font-family: Madefor;
+        text-align: center;
+
+        .title {
+            font-size: 2.1rem;
+            font-weight: 700;
+
+        }
+
+        .sub-title {
+            font-size: 1.1rem;
+            padding: 20px;
+        }
+    }
+
+
+    .section-2 {
+        box-sizing: border-box;
+        background-color: $main-color ;
+        margin: 0 auto;
+        position: relative;
+        bottom: 200px;
+        width: 100%;
+
+
+
+        .editor {
+            width: 100%;
+            height: 100%;
+            margin: 0 auto;
+            padding-top: 200px;
+            padding-bottom: 80px;
+
+        }
+
+        .white-wave {
+            user-select: none;
+            position: absolute;
+            top: 0;
+            width: 100%;
+            height: 200px;
+        }
+    }
+    .section-4{
+        position: relative;
+        bottom: 200px;
+        padding-bottom: 800px;
+    }
+
+    .section-3 {
+        h1{
+            font-family: Monsterrat;
+            text-align: center;
+            font-size: 2rem;
+            color: rgb(250, 244, 244);
+        }
+
+        .guide-purple-wave{
+            width: 100%;
+            user-select: none;
+            position: absolute;
+            top: 1000px;
+        }
+        position: relative;
+
+        .guide-wave{
+            user-select: none;
+            top: -30px;
+            width: 100%;
+            position: absolute;
+        }
+        padding-top: 300px;
+        height: 700px;
+        // bottom: 220px;
+
+        .guide-video-container {
+            display: block;
+            // margin: auto;
+            // width: 75%;
+
+        }
+
+       
+
+        .guide {
+            padding-top: 100px;
+            margin: auto;
+            display: inline-block;
+            width: 100%;
+        }
+    }
+
+
+    .cards-container {
+        .up-wave {
+            user-select: none;
+            width: 100%;
+            height: 200px;
+            transform: rotate(180deg);
+        }
+        max-height: 680px;
+        .text-container {
+            font-family: Madefor;
+
+            h1 {
+                color: $main-color;
+                user-select: none;
+                font-weight: 700;
+                text-align: center;
+            }
+
+            p {
+                font-weight: 600;
+                user-select: none;
+            }
+        }
+
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+        >* {
+            align-items: center;
+            display: flex;
+            flex-direction: column;
+        }
+
+        >*:nth-child(odd) {
+            flex-direction: column;
+        }
+
+
+
+        .card-1 {
+            padding-bottom: 70px;
+            font-family: Madefor;
+
+            .number-1 {
+                display: none;
+                align-items: center;
+                // display: none;
+
+            }
+
+
+
+
+
+
+
+
+
+
+        }
+
+        
+
+        .card-2 {
+            .number-2 {
+                display: none;
+                
+            }
+
+          
+
+            font-family: Madefor;
+
+            .number-2::before {
+                content: '';
+                z-index: 0;
+                height: 1px;
+                background: linear-gradient(90deg, rgba(97, 97, 197, 1) 0%, rgba(97, 97, 197, 0) 0%, rgba(97, 97, 197, 0.8435749299719888) 29%);
+                width: 200px;
+                position: absolute;
+                right: 40px;
+                top: 50%;
+                transform: translate(0, -50%);
+                display: block;
+
+
+            }
+        }
+
+        .card-3{
+            .text-container{
+            }
+            .number-2{
+                display: none;
+                align-items: center;
+            }
+            .number-2::before{
+                content: '';
+                z-index: 0;
+                height: 1px;
+                background: linear-gradient(90deg, rgba(97, 97, 197, 1) 0%, rgba(97, 97, 197, 0) 0%, rgba(97, 97, 197, 0.8435749299719888) 29%);
+                width:190px;
+                position: absolute;
+                right: 40px;
+                top: 50%;
+                transform: translate(0, -50%);
+                display: block;
+
+            }
+            padding-top: 100px;
+            .dashboard-photo{
+                width: 600px;
+            }
+        }
+
+    }
+
+
+
+
+    .section-5 {
+        h1{
+            font-weight: 700;
+            color: rgb(26 18 18);
+            text-align: center;
+            font-family: Madefor;
+            padding-top: 80px;
+            font-size: 3rem;
+        }
+        padding-top: 200px;
+        padding-bottom: 200px;
+        position: relative;
+        // width: 50%;
+
+    }
+
+    .section-6 {
+        position: relative;
+
+        .footer-text {
+            display: flex;
+            flex-direction: column;
+            position: absolute;
+            align-items: center;
+            top: 30%;
+            width: 100%;
+            text-align: center;
+            gap: 20px;
+            left: 50%;
+            transform: translate(-50%, -50%);
+
+            h1 {
+                font-size: 2rem;
+                font-family: Madefor;
+                color: rgb(19, 18, 18);
+            }
+
+            button {
+                font-family: Madefor;
+                user-select: none;
+                border: none;
+                // border-radius: 20px;
+                background-color: rgb(243, 186, 81);
+                padding: 20px;
+                font-size: 1rem;
+                color: rgb(34, 31, 31);
+                width: 50%;
+                cursor: pointer;
+            }
+
+            button:hover {
+                background-color: rgb(238, 195, 115);
+            }
+        }
+
+        height: 400px;
+        background-color: $main-color;
+
+        .wave-footer {
+            user-select: none;
+            height: 50%;
+            position: absolute;
+            bottom: 400px;
+            width: 100%;
+
+        }
+
+        .rights {
+            gap: 10px;
+            display: flex;
+            align-items: center;
+            background-color: #2a2a57;
+            width: 100%;
+            height: 20%;
+            position: absolute;
+            bottom: 0;
+            padding-inline: 15px;
+
+            .creators {
+                font-size: 0.5rem;
+                font-family: Madefor;
+                color: rgb(219, 210, 210);
+            }
+
+            .ltd {
+                position: absolute;
+                right: 7.8%;
+                font-size: 0.6rem;
+                font-family: Madefor;
+                color: rgb(219, 210, 210);
+            }
+
+            .logo {
+                .w {
+                    color: #8181ee;
+                    font-family: Berk;
+                    font-weight: lighter;
+                }
+
+                position: relative;
+                font-family: Madefor;
+                // text-transform: uppercase;
+                letter-spacing: 2px;
+                font-size: 0.8rem;
+
+                padding-bottom: 5px;
+                font-weight: 600;
+                color: rgb(221, 206, 206);
+            }
+        }
+    }
+
+
+
+    @include for-tiny-layout {}
+
+    @include for-mobile-layout {}
+
+    @include for-narrow-layout {
+
+        .section-3{
+            h1{
+                font-size: 3.5rem;
+            }
+        }
+        .section-1{
+            .home-photo{
+                
+                width: 60%;
+                user-select: none;
+            }
+
+            
+        }
+        .section-6{
+            .rights{
+                .logo{
+                    font-size: 1.3rem;
+                }
+                .creators{
+                    font-size: .9rem;
+                }
+                .ltd{
+                    font-size: .8rem;
+                }
+            }
+           
+        }
+    }
+
+
+    @include for-mid-layout {
+
+        .cards-container{
+            .card-3{
+                // width: 90%;
+                .text-container{
+                    p{
+                        // width: 100%;
+                    }
+                    padding-inline-end: 0;
+                    // margin-inline-end: 110px;
+                    // width:400px;
+                }
+                .number-2::before{
+                    width: 90px;
+                }
+                .dashboard-photo{
+                    width: 350px;
+                    margin-inline-start: 100px;
+                }
+            }
+        }
+
+      
+       
+        .section-1{
+            .title{
+                font-size: 2.9rem;
+            }
+            .sub-title{
+                font-size: 1.5rem;
+            }
+        }
+
+        .section-2{
+            .white-wave{
+                user-select: none;
+                left:0 ;
+            }
+            padding-inline: 50px;
+       
+        }
+        .number {
+            display: flex;
+            img{
+                width: 20px;
+                height: 20px;
+            }
+            // display: none;
+            color: rgb(34, 33, 33);
+            user-select: none;
+            background-color: #f5f5f5;
+            border: 1px rgb(73, 56, 119) solid;
+            font-weight: 700;
+            border-radius: 50%;
+            padding: 10px;
+            position: absolute;
+            left: 50%;
+            height: 12px;
+            transform: translate(-50%);
+        }
+        .cards-container {
+            padding-bottom: 80px;
+       
+            .text-container {
+                font-family: Madefor;
+
+                h1 {
+                    color: $main-color;
+                    user-select: none;
+                    font-weight: 700;
+                }
+
+                p {
+                    font-weight: 600;
+                    user-select: none;
+                }
+            }
+
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 100px;
+
+            >* {
+                align-items: center;
+                display: flex;
+                flex-direction: unset;
+                gap: 300px;
+            }
+
+            >*:nth-child(odd) {
+                flex-direction: row-reverse;
+            }
+
+            .line {
+                background: linear-gradient(180deg, rgba(97, 97, 197, 0) 0%, rgba(97, 97, 197, 0.8435749299719888) 47%, rgba(97, 97, 197, 0) 100%);
+                width: 3px;
+                position: absolute;
+                top: 150px;
+                height: 1800px;
+            }
+
+            .card-1 {
+
+                font-family: Madefor;
+                img{
+                    position: relative;
+                    z-index: 1;
+                }
+
+                .number-1 {
+                    z-index: 11111;
+                    display: flex;
+
+                }
+
+                .number-1::before {
+                    z-index: -11111;
+                    content: '';
+
+                    height: 1px;
+                    background: linear-gradient(90deg, rgba(97, 97, 197, 1) 100%, rgba(97, 97, 197, 0.8435749299719888) 77%, rgba(97, 97, 197, 0) 0%);
+                    width: 110px;
+                    position: absolute;
+                    right: 39px;
+                    top: 50%;
+                    transform: translate(0, -50%);
+                    display: block;
+
+
+                }
+
+
+
+
+
+
+
+
+            }
+
+            .card-2 {
+                .number-2 {
+                    display: flex;
+                    align-items: center;
+                    z-index: 1;
+                }
+
+                font-family: Madefor;
+
+                .number-2::before {
+                    content: '';
+                    z-index: 0;
+                    height: 1px;
+                    background: linear-gradient(90deg, rgba(97, 97, 197, 1) 100%, rgba(97, 97, 197, 0) 0%, rgba(97, 97, 197, 0.8435749299719888) 29%);
+                    width: 180px;
+                    position: absolute;
+                    right: -180px;
+                    top: 50%;
+                    transform: translate(0, -50%);
+                    display: block;
+
+
+                }
+            }
+
+            .card-3{
+                .number-2{
+                    display: flex;
+                }
+            }
+
+        }
+        
+    }
+
+    @include for-normal-layout {
+
+        .cards-container{
+            .card-3{
+                .number-2::before{
+                    width: 100px;
+                }
+                .dashboard-photo{
+                    width: 500px;
+                    margin-inline-start: 100px;
+                }
+                .text-container{
+                    text-align: center;
+                    padding-inline-end: 0px;
+                    margin-inline-end: 210px;
+                    width: 300px;
+                }
+            }
+        }
+     
+        .section-6{
+            .rights {
+                gap: 10px;
+                display: flex;
+                align-items: center;
+                background-color: #2a2a57;
+                width: 100%;
+                height: 20%;
+                position: absolute;
+                bottom: 0;
+                padding-inline: 15px;
+    
+                .creators {
+                    font-size: .95rem;
+                    font-family: Madefor;
+                    color: rgb(219, 210, 210);
+                }
+    
+                .ltd {
+                    position: absolute;
+                    right: 2%;
+                    font-size: .95rem;
+                    font-family: Madefor;
+                    color: rgb(219, 210, 210);
+                }
+    
+                .logo {
+                    .w {
+                        color: #8181ee;
+                        font-family: Berk;
+                        font-weight: lighter;
+                    }
+    
+                    position: relative;
+                    font-family: Madefor;
+                    // text-transform: uppercase;
+                    letter-spacing: 2px;
+                    font-size: 1.4rem;
+    
+                    padding-bottom: 5px;
+                    font-weight: 600;
+                    color: rgb(221, 206, 206);
+                }
+            }
+        }
+    
+    
+        .section-1{
+            justify-content: center;
+            padding-top:150px ;
+            flex-direction: unset;
+            align-items: center;
+            gap: 80px;
+            .home-photo{
+                width: 35%;
+            }
+       
+            .title{
+                font-size: 2rem;
+            }
+            .sub-title{
+                font-size: 1.7rem;
+            }
+            button{
+                font-size: 1.5rem;
+            }
+        }
+    
+        .section-6{
+            .rights{
+                .ltd{
+                    right: 4%;
+                }
+            }
+        }
+        .section-2{
+            width: 100%;
+            padding-inline: 350px;
+
+            .editor{
+                width: 100%;
+                user-select: none;
+            }
+        }
+
+        .section-3{
+            padding-bottom: 100px;
+        }
+    }
+  
+    @include for-wide-layout {
+        
+           
+            
+
+        .section-3{
+            .guide-purple-wave{
+                top: 1050px;
+            }
+            padding-bottom: 200px;
+            .guide-video-container{
+                width: 65%;
+                margin: auto;
+            }
+        }
+     
+
+   
+
+        .section-6{
+            .footer-text{
+                h1{
+                    font-size: 2.4rem;
+                    font-weight: 700;
+
+                }
+                button{
+                    font-size: 1.5rem;
+                    width: 20%;
+                }
+            }
+            .rights{
+                .ltd{
+                    right: 2.5%;
+                }
+            }
+           
+        }
+        
+      
+   
+
+
+    }
+        
+    }
+

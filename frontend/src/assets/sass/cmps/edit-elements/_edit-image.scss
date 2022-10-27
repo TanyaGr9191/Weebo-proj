@@ -1,0 +1,46 @@
+.edit-image {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    flex-wrap: wrap;
+    width: 100%;
+    gap: 10px;
+
+    img {
+        max-width: 250px;
+        // object-fit: cover;
+        max-height: 300px;
+    }
+
+    input {
+        display: none;
+    }
+
+    span {
+        cursor: pointer;
+        padding: 12px 22px;
+        border-radius: 5px;
+        background-color: $main-color;
+        color: whitesmoke;
+        width: 100px;
+    }
+
+    form {
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+
+
+    @include for-mobile-layout {
+        padding-top: 15px;
+        padding-bottom: 15px;
+        align-items: center;
+    }
+
+    @include for-narrow-layout {
+        padding-top: 0;
+        padding-bottom: 0;
+        align-items: flex-start;
+    }
+
+}
