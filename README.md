@@ -1,6 +1,6 @@
-# Weebo (React + Node.js)
+# App description: Weebo (React + Node.js)
 
-Website building e2e app inspired by wix.com and elementor.com. [Have a look here](https://weebo-proj.onrender.com/)
+Website building e2e app inspired by wix.com. [Have a look here](https://weebo-proj.onrender.com/)
 
 Weebo was created with small business owners in mind. **It is merely a website builder that aids in the creation and management of your website.**
 
@@ -18,7 +18,7 @@ Weebo was created with small business owners in mind. **It is merely a website b
 
 - Using a visual editor, the drag-and-drop page builder helps in the creation of stunning pages. You can quickly construct dynamic websites thanks to its architecture.
 
-![Weebo Editor3]([https://res.cloudinary.com/dxwlsxl5s/image/upload/v1670668357/bwn9ch0azaerjgof9nvs.jpg](https://res.cloudinary.com/dxwlsxl5s/image/upload/v1670671078/g1dvtn8cztpbv85hv8n1.jpg))
+![Weebo Editor3](https://res.cloudinary.com/dxwlsxl5s/image/upload/v1670668357/bwn9ch0azaerjgof9nvs.jpg)
 
 ## Technology
 
