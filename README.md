@@ -46,24 +46,24 @@ git clone https://github.com/TanyaGr9191/Weebo-proj.git
 cd backend
 ```
 
->❗**Note:** Ensure that node_modules are installed first.
+>❗ Ensure that node_modules are installed first.
 
 🔹 Next, we'll start the server with 'npm start':
 ```sh
 npm i
 npm start
 ```
->❗**Note:** You should receive a terminal output verifying the server's status at port 3030.
+>❗ You should receive a terminal output verifying the server's status at port 3030.
 
 🔹 Now carry out the same steps for the frontend folder.
 
->❗**Note:** A terminal output at localhost:3000 should be displayed once the server is up and running.
+>❗ A terminal output at localhost:3000 should be displayed once the server is up and running.
 
 👏 All done! You have completed the first step with Weebo. 
 ✔️ Now the app is active!
 
-## 🧍‍♂️🧍🧍‍♀️ Credits
+## 👥 Credits
 
-- [Tanya Grudinkina](https://github.com/TanyaGr9191)
-- [Boris Ryjkov](https://github.com/BorisRy)
-- [Nadav Vazana](https://github.com/NadavVazana)
+🌟 [Tanya Grudinkina](https://github.com/TanyaGr9191)
+🌟 [Boris Ryjkov](https://github.com/BorisRy)
+🌟 [Nadav Vazana](https://github.com/NadavVazana)
