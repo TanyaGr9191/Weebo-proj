@@ -65,7 +65,7 @@ npm start
 
 ## 👥 Credits
 
-🌟 [Tanya Grudinkina](https://github.com/TanyaGr9191)
+🌟 [Tanya Grudinkina](https://github.com/TanyaGr9191) [(visit my LinkedIn page)](https://www.linkedin.com/in/tanya-grudinkina-9b088a234/)
 
 🌟 [Boris Ryjkov](https://github.com/BorisRy)
 
