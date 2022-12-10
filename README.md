@@ -1,4 +1,4 @@
-# App description: Weebo (React + Node.js)
+# ✨ App Overview
 
 Website building e2e app inspired by wix.com. [Have a look here](https://weebo-proj.onrender.com/)
 
@@ -20,7 +20,7 @@ Weebo was created with small business owners in mind. **It is merely a website b
 
 ![Weebo Editor3](https://res.cloudinary.com/dxwlsxl5s/image/upload/v1670668357/bwn9ch0azaerjgof9nvs.jpg)
 
-## Technology
+## 👩‍💻 Technology
 
 >**React, MongoDB, Express, and Node.js** make up the technology stack. 
 >
@@ -34,7 +34,7 @@ Weebo was created with small business owners in mind. **It is merely a website b
 >
 >Drag-and-drop application added using an **open source library** that enables simple integration of drag-and-drop functionality to the app.
 
-## Take your first step
+## 🐣 Take your first step
 
 1. Clone the project or download the files by going to the repository up above.
 
@@ -61,7 +61,7 @@ npm start
 
 All done! You have completed the first step with Weebo. Now the app is active!
 
-## Credits
+## 👥 Credits
 
 - [Tanya Grudinkina](https://github.com/TanyaGr9191)
 - [Boris Ryjkov](https://github.com/BorisRy)
