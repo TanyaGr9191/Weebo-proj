@@ -56,6 +56,11 @@ npm start
 >**Note:** You should receive a terminal output verifying the server's status at port 3030.
 
 🔹 Now carry out the same steps for the frontend folder.
+```sh
+cd frontend
+npm i
+npm start
+```
 
 >**Note:** A terminal output at localhost:3000 should be displayed once the server is up and running.
 
