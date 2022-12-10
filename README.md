@@ -1,6 +1,6 @@
 # ✨ App Overview
 
-Website building e2e app inspired by wix.com. [Have a look here](https://weebo-proj.onrender.com/)
+Website building e2e app inspired by wix.com. [Have a look here](https://weebo-proj.onrender.com/)📌
 
 Weebo was created with small business owners in mind. **It is merely a website builder that aids in the creation and management of your website.**
 
