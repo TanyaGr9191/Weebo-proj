@@ -22,17 +22,17 @@ Weebo was created with small business owners in mind. **It is merely a website b
 
 ## 👩‍💻 Technology
 
->🔸 **React, MongoDB, Express, and Node.js** make up the technology stack. 
->
->🔸 Utilizing the **REST API** technique, API calls are made to the backend. 
->
->🔸 For real-time editor updating, the program makes advantage of **webSockets**, that makes it possible to open a two-way interactive communication session between    the user's browser and a server.
->
->🔸 **Sass** was used to style and arrange the layout (functions, mixins, variables).
->
->🔸 **Middleware** was utilized in actions integrating authentication and authorization.
->
->🔸 Drag-and-drop application added using an **open source library** that enables simple integration of drag-and-drop functionality to the app.
+🔸 **React, MongoDB, Express, and Node.js** make up the technology stack. 
+
+🔸 Utilizing the **REST API** technique, API calls are made to the backend. 
+
+🔸 For real-time editor updating, the program makes advantage of **webSockets**, that makes it possible to open a two-way interactive communication session between    the user's browser and a server.
+
+🔸 **Sass** was used to style and arrange the layout (functions, mixins, variables).
+
+🔸 **Middleware** was utilized in actions integrating authentication and authorization.
+
+🔸 Drag-and-drop application added using an **open source library** that enables simple integration of drag-and-drop functionality to the app.
 
 ## 🐣 Take your first step
 
@@ -60,10 +60,13 @@ npm start
 >**Note:** A terminal output at localhost:3000 should be displayed once the server is up and running.
 
 👏 All done! 
+
 ✔️ You have completed the first step with Weebo. Now the app is active!
 
 ## 👥 Credits
 
 🌟 [Tanya Grudinkina](https://github.com/TanyaGr9191)
+
 🌟 [Boris Ryjkov](https://github.com/BorisRy)
+
 🌟 [Nadav Vazana](https://github.com/NadavVazana)
