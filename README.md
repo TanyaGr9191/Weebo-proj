@@ -8,17 +8,17 @@ Weebo was created with small business owners in mind. **It is merely a website b
 
 - As Weebo's editor is a live frontend editor, you can design your website live and construct complicated layouts without having to transition between the editor and preview mode. 
 
-![Weebo Editor](https://res.cloudinary.com/dxwlsxl5s/image/upload/v1670663658/tnwgurqnqp8qamdebvt3.jpg)
+![Weebo Editor1](https://res.cloudinary.com/dxwlsxl5s/image/upload/v1670663658/tnwgurqnqp8qamdebvt3.jpg)
 
 - The responsive editor-tool also makes it possible to create fully responsive websites that constantly provide the greatest user experience regardless of the screen size or viewing device they are being viewed on.
 
 - Efficient use that enables real-time editor updates and simultaneous team collaboration.
 
-![Weebo Editor](https://res.cloudinary.com/dxwlsxl5s/image/upload/v1670664324/aq1lzjazjcng81kj37af.jpg)
+![Weebo Editor2](https://res.cloudinary.com/dxwlsxl5s/image/upload/v1670664324/aq1lzjazjcng81kj37af.jpg)
 
 - Using a visual editor, the drag-and-drop page builder helps in the creation of stunning pages. You can quickly construct dynamic websites thanks to its architecture.
 
-![](https://res.cloudinary.com/dxwlsxl5s/image/upload/v1670668357/bwn9ch0azaerjgof9nvs.jpg)
+![Weebo Editor3]([https://res.cloudinary.com/dxwlsxl5s/image/upload/v1670668357/bwn9ch0azaerjgof9nvs.jpg](https://res.cloudinary.com/dxwlsxl5s/image/upload/v1670671078/g1dvtn8cztpbv85hv8n1.jpg))
 
 ## Technology
 
