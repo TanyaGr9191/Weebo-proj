@@ -61,7 +61,7 @@ npm start
 
 👏 All done! 
 
-✔️ You have completed the first step with Weebo. Now the app is active!
+✔️ You have completed your first step with Weebo. Now the app is active!
 
 ## 👥 Credits
 
