@@ -22,17 +22,17 @@ Weebo was created with small business owners in mind. **It is merely a website b
 
 ## Technology
 
->React, MongoDB, Express, and Node.js make up the technology stack. 
+>**React, MongoDB, Express, and Node.js** make up the technology stack. 
 >
->Utilizing the REST API technique, API calls are made to the backend. 
+>Utilizing the **REST API** technique, API calls are made to the backend. 
 >
->For real-time editor updating, the program makes advantage of webSockets, that makes it possible to open a two-way interactive communication session between the user's browser and a server.
+>For real-time editor updating, the program makes advantage of **webSockets**, that makes it possible to open a two-way interactive communication session between the user's browser and a server.
 >
->Sass was used to style and arrange the layout (functions, mixins, variables).
+>**Sass** was used to style and arrange the layout (functions, mixins, variables).
 >
->Middleware was utilized in actions integrating authentication and authorization.
+>**Middleware** was utilized in actions integrating authentication and authorization.
 >
->Drag-and-drop application added using an open source library that enables simple integration of drag-and-drop functionality to the app.
+>Drag-and-drop application added using an **open source library** that enables simple integration of drag-and-drop functionality to the app.
 
 ## Take your first step
 
