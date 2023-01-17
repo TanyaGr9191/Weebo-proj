@@ -8,8 +8,6 @@ export const Preview=()=>{
     const [template,setTemplate]= useState(null)
     useEffect(()=>{
         loadTemplate()
-        
-
     },[])
 
     const loadTemplate=async ()=>{

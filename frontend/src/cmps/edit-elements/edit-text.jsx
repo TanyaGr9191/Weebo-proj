@@ -221,8 +221,6 @@ export const EditText = () => {
             </div>
 
             {/* element actions-delete, duplicate, undo */}
-            {/* <div className='edit-element-control'> */}
-                {/* <span className='header-element-control'>Edit your website</span> */}
                 <div className='space-between element-control'>
                     {actions.map(action =>
                         <div
@@ -237,7 +235,6 @@ export const EditText = () => {
                             <span className={`${action.toLowerCase()}`}>{action}</span>
                         </div>)}
                 </div>
-            {/* </div> */}
         </section >
     )
 }
