@@ -51,11 +51,6 @@ export const Editor = () => {
         dispatch(setDraft(draft))
     }
 
-
-
-  
-
-
     const onEditElement = (clickedElement, ev) => {
 
         dispatch(setElement(clickedElement))
